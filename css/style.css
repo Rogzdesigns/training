@@ -1,0 +1,108 @@
+.top-section{
+    background-color:#E0EBE8;
+}
+body{
+    text-align:center;
+    margin:0px;
+    color: #40514E;
+}
+h1{
+    margin:0px;
+    font-family: 'sacramento', cursive;
+    font-size: 562.5%;
+    color:#66BFBF;
+    line-height: 2;
+    padding-top: 50px;
+    width: 25%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom:0 ;
+    margin-left: auto;
+    margin: auto;
+
+}
+h2{
+    color:#66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+h3{
+    color:#11999E;
+}
+.title{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin:auto;
+margin-top: 100px;
+margin-bottom: 100px;
+text-align: left;
+}
+.skills{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.profile{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}  
+.skill-row p{
+    line-height: 2;
+}
+.computerimg{
+    width: 25%;
+    border-radius: 100%;
+}
+.codingimg{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right:30px ;
+}
+.sarimg{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.great{
+    clear: left;
+}
+.middle-container{
+    margin:100px 0;
+}
+.profile p{
+    width: 30%;
+    margin: auto;
+}
+.p{
+    line-height: 2;
+}
+hr{
+    border:dotted #EAF6F6 6px;
+    width: 5%;
+    margin: 100px auto;
+}
+.contact-me p{
+width:40%;
+margin: 100px auto;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 20px;
+}
+.footer-link{
+    text-decoration: none;
+    color: #11999e;
+    margin: 10px 20px;
+    font-family: merriweather, serif;
+}
+.footer-link:hover{
+    color: #ffffff;
+}
+.copywrite-2020{
+    color: #eaf6f6;
+    padding: 20px;
+    font-size: 0.75rem;
+}
